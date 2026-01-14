@@ -55,13 +55,13 @@ Copilot agents for institutional task automation at SUNASS
 
 ## 📊 GitHub Stats
 
-![Laleska's GitHub stats](https://github-readme-stats.vercel.app/api?username=laleska2506&show_icons=true&theme=radical)
+![Laleska's GitHub stats]([https://laleska2506.github.io/Portfolio-laleska-arroyo/](https://github-readme-stats.vercel.app/api?username=laleska2506&show_icons=true&theme=radical))
 
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laleskaarroyoaquino)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:laleskaarroyoaquino0@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](tu-portfolio.com)
+[![Portfolio](https://laleska2506.github.io/Portfolio-laleska-arroyo/)
 
 ---
 
