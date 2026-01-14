@@ -55,7 +55,7 @@ Copilot agents for institutional task automation at SUNASS
 
 ## 📊 GitHub Stats
 
-![Laleska's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical)
+![Laleska's GitHub stats](https://github-readme-stats.vercel.app/api?username=laleska2506&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect!
 
