@@ -139,17 +139,6 @@ I'm a **Software Engineering graduate** (top third of class 🎓) from USIL Lima
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Laleska's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laleska2506&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laleska2506&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌱 Currently
 
 - 🔭 Building routing & AI automation systems at **SUNASS**
